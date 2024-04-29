@@ -1,7 +1,7 @@
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
-Linux commands-Shell scripting
+Linux commands-Shell scripting        
 DEVELOPED BY:N.NAVYA SREE        
 REG.NO:212223040138          
 # AIM:
