@@ -2,8 +2,7 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting        
-DEVELOPED BY:N.NAVYA SREE        
-REG.NO:212223040138          
+     
 # AIM:
 To practice Linux Commands and Shell Scripting
 
@@ -21,8 +20,10 @@ Execute the following commands
 
 Testing the commands for the desired output. 
 
-# COMMANDS:
-### Create the following files file1, file2 as follows:
+# COMMANDS:     
+DEVELOPED BY:N.NAVYA SREE              
+REG.NO:212223040138           
+### Create the following files file1, file2 as follows:      
 cat > file1
 ```
 chanchal singhvi
@@ -1098,6 +1099,19 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
+## OUTPUT:
+```
+locathost:~# chmod 755 palindrome.sh
+locathost:~# ./palindrome.sh
+Enter the number
+21
+Number is NOT palindrome
 
+locathost:~# chmod 755 palindrome.sh
+locathost:~# ./palindrome.sh
+Enter the number
+33
+Number is palindrome
+```
 # RESULT:
 The Commands are executed successfully.
