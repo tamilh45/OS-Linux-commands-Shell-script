@@ -2,7 +2,8 @@
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
-
+DEVELOPED BY:N.NAVYA SREE        
+REG.NO:212223040138          
 # AIM:
 To practice Linux Commands and Shell Scripting
 
@@ -1097,6 +1098,6 @@ else
 	echo "Number is NOT palindrome"
 fi
 ```
-## OUTPUT 
+
 # RESULT:
 The Commands are executed successfully.
